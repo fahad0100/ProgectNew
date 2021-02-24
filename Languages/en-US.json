@@ -1,0 +1,22 @@
+{
+  "EmailLable":"Email",
+  "PasswordLable":"Password",
+  "ForgotLable":"Forgot your password",
+  "SignInLable":"Log In",
+  "SignUp":"Create a new store account",
+  "Error": "Error",
+  "SignInNotWork": "login error",
+  "SignInSucceeded": "Login succeeded",
+  "NameStor": "Store Name",
+  "NamePersonStor": "Name of the store Owner",
+  "PhonePerson": "Phone of the store Owner",
+  "PhoneStor": "Store Phone",
+  "Re-Password": "Password again",
+  "SignUpLabel": "Create an account",
+  "msgSignUp1": "Problem registering email",
+  "msgSignUp2": "Password does not match",
+  "msgSignUp3": "There are missing fields",
+  "Create": "Create",
+  "RestorePassword": "Reset password"
+
+}

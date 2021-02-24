@@ -1,0 +1,22 @@
+{
+  "EmailLable":"البريد الالكتروني",
+  "PasswordLable":"كلمة السر",
+  "ForgotLable":"نسيت كلمة المرور",
+  "SignInLable":"الدخول",
+  "SignUp":"أنشاء حساب متجر جديد",
+  "Error": "خطأ",
+  "SignInNotWork": "خطأ في تسجيل الدخول",
+  "SignInSucceeded": "نجح تسجيل الدخول",
+  "NameStor": "أسم المتجر",
+  "NamePersonStor": "آسم صاحب المتجر",
+  "PhonePerson": "هاتف مدير المتجر",
+  "PhoneStor": "هاتف المتجر",
+  "Re-Password": "أدخل كلمة السر مرة أخرى",
+  "SignUpLabel": "أنشاء حساب",
+  "msgSignUp1": "مشكلة في تسجيل البريد الالكتروني",
+  "msgSignUp2": "كلمة المرور غير متطابقة",
+  "msgSignUp3": "هناك حقول ناقصه",
+  "Create": "أنشاء",
+  "RestorePassword": "إعادة تعيين كلمة المرور"
+
+}
